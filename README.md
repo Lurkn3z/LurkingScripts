@@ -1,0 +1,4 @@
+LurkingScripts
+==============
+
+Scripts For RSBot
